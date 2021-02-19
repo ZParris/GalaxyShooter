@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{5912824B-47DC-E9EC-5010-2A7B0EE1F339}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game/Scripts/UIManager.cs">
+    <Files>
+      <File FileName="Assets/Game/Scripts/Player.cs" Line="139" Column="1" />
+      <File FileName="Assets/Game/Scripts/Laser.cs" />
+      <File FileName="Assets/Game/Scripts/PowerUp.cs" />
+      <File FileName="Assets/Game/Scripts/EnemyAI.cs" />
+      <File FileName="Assets/Game/Scripts/Spawn_Manager.cs" />
+      <File FileName="Assets/Game/Scripts/UIManager.cs" Line="10" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="96bbff3f-6eb5-4f5b-8678-ef6a7d9f0e40" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
